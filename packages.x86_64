@@ -13,15 +13,7 @@ cloud-init
 cryptsetup
 darkhttpd
 ddrescue
-xfce4 
-xfce4-goodies 
-xfce4-panel 
-thunar 
-xfce4-terminal 
-xfce4-power-manager 
-xfce4-settings 
-xfce4-session 
-xfce4-notifyd
+xfce4
 dhclient
 dhcpcd
 diffutils
