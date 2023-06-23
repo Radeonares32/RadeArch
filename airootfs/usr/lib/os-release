@@ -1,0 +1,11 @@
+NAME="RadeArch"
+PRETTY_NAME="RadeArch"
+ID=radearch
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="0;36"
+HOME_URL="https://github.com/Radeonares32/"
+DOCUMENTATION_URL="https://github.com/Radeonares32/RadeArch"
+SUPPORT_URL="https://github.com/Radeonares32/"
+BUG_REPORT_URL="https://github.com/Radeonares32/RadeArch/issues"
+LOGO=
