@@ -12,6 +12,7 @@ clonezilla
 cloud-init
 cryptsetup
 darkhttpd
+blackarch-keyring
 ddrescue
 xfce4
 sddm
