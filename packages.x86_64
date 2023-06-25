@@ -13,6 +13,7 @@ cloud-init
 cryptsetup
 darkhttpd
 blackarch-keyring
+blackarch-webapp
 ddrescue
 xfce4
 sddm
