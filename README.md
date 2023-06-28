@@ -1,2 +1,2 @@
 # RadeArch
-RadeArch is an arch linux based linux distribution
+RadeArch is an arch-based penetration distro
