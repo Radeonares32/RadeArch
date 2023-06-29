@@ -1,1 +1,9 @@
-/usr/lib/systemd/system/hv_fcopy_daemon.service
+[Unit]
+Description=Hyper-V file copy service (FCOPY)
+ConditionPathExists=/dev/vmbus/hv_fcopy
+
+[Service]
+ExecStart=/usr/bin/hv_fcopy_daemon -n
+
+[Install]
+WantedBy=multi-user.target
