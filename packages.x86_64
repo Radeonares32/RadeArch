@@ -60,6 +60,8 @@ lsscsi
 lvm2
 make
 cmake
+nodejs
+npm
 lynx
 man-db
 man-pages
