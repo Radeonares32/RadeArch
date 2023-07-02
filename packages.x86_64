@@ -62,6 +62,8 @@ make
 cmake
 nodejs
 npm
+gtk4
+gtk3
 vala
 lynx
 man-db
